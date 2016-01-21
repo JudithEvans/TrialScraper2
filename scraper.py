@@ -11,7 +11,7 @@ print myage
 
 listlength = len(mylist)
 stringlength = len(myvar)
-numlength=len(myage)
+numlength = len (myage)
 
 
 # import scraperwiki
